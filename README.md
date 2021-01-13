@@ -287,6 +287,8 @@ If you want to contribute, note that you should only update `data.json`.
 136 | [@zumoshi](https://github.com/zumoshi)/[**BrowserSelect**](https://github.com/zumoshi/BrowserSelect) | Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links. | 
 3 | [@ehsan-mohammadi](https://github.com/ehsan-mohammadi)/[**eRamz**](https://github.com/ehsan-mohammadi/eRamz) | Protect files with DES encryption | 
 
+60 | [@kokabi1365/Vajehdan](https://github.com/kokabi1365)/[**Vajehdan**](https://github.com/kokabi1365/Vajehdan) | راهنمای واژه‌گزینیِ فارسی | 
+
 
 <h3><a name="lua"></a>Lua</h3>
 
